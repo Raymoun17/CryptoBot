@@ -65,4 +65,5 @@ class Track(commands.Cog):
 
 
 def setup(bot: commands.Bot):
-    bot.add_cog(Track(bot))
+    #bot.add_cog(Track(bot))
+    pass
